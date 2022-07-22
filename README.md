@@ -1,10 +1,10 @@
 # Some of my personal projects.
 A collection of personal projects I've worked on. 
 
-##Data
+## Data
 Data used for various projects
 
-##Projects
+## Projects
 Collection of projects
 
 ### JPX - Stock Prediction
